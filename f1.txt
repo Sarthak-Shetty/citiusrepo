@@ -3,3 +3,4 @@ line 2 added at local
 line 3 added at local
 line 4 added at local
 line 5 added at feature1
+line 6 added at feature1
